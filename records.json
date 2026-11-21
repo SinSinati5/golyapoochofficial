@@ -1,0 +1,119 @@
+{
+  "freestyle": {
+    "columnOrder": [
+      "Efe",
+      "Amir",
+      "Sina"
+    ],
+    "scoredGames": [
+      [
+        9,
+        10,
+        11
+      ],
+      [
+        11,
+        10,
+        4
+      ],
+      [
+        10,
+        11,
+        8
+      ],
+      [
+        5,
+        2,
+        11
+      ]
+    ],
+    "earlierTitleWithoutScore": {
+      "winner": "Sina",
+      "beforeFirstScoredGame": true
+    },
+    "additionalEarlierTitlesWithoutScores": {
+      "Sina": 2,
+      "Efe": 1,
+      "Amir": 1
+    }
+  },
+  "traditional": {
+    "originalPlayerRecords": {
+      "Sina": [
+        [
+          5,
+          11
+        ],
+        [
+          11,
+          5
+        ],
+        [
+          11,
+          3
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          11,
+          5
+        ],
+        [
+          3,
+          7
+        ]
+      ],
+      "Amir": [
+        [
+          5,
+          11
+        ],
+        [
+          5,
+          11
+        ],
+        [
+          11,
+          3
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          11,
+          5
+        ],
+        [
+          7,
+          3
+        ]
+      ]
+    },
+    "additionalEarlierWinsWithoutScores": {
+      "Amir": 3
+    },
+    "latestMatch": {
+      "winner": "Sina",
+      "loser": "Amir",
+      "score": [
+        11,
+        9
+      ],
+      "date": null
+    }
+  },
+  "interpretation": {
+    "latestMatchDiscipline": "traditional",
+    "originalTraditionalLists": "Separate player records, not reconciled into one mirrored series",
+    "additionalTraditionalWinOpponents": "Unknown",
+    "priorHypotheticalFourWinsIncluded": false
+  },
+  "overallRanking": [
+    "Sina",
+    "Amir",
+    "Efe"
+  ]
+}
